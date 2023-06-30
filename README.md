@@ -7,4 +7,3 @@
 3. [VS CODE IDE](https://code.visualstudio.com/download)
 4. [Git CLI](https://git-scm.com/downloads)
 5. [Git command documentation](https://docs.github.com/en/get-started/using-git/about-git)
-6. [Boruto](https://chia-anime.su/boruto-naruto-next-generations-episode-285-english-subbed)
