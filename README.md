@@ -21,3 +21,10 @@ Steps:
 
 5. Make a requirements.txt file 
 6. Now create an app.py file  
+7. Now create heroku account and then create docker file as - "Dockerfile"
+8. Then create file -  ".dockerignore"
+9. create a folder in root dir  - ".github" and inside this create another folder - "workflows"  and inside this create another file as "main.yaml"
+10. Create a folder in root dir - name as "housing"
+11. Then create a file setup.py in root dir
+12. Create a file __init__.py inside housing
+13. 
