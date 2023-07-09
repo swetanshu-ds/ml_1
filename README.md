@@ -39,4 +39,5 @@ Steps:
 22. Now, inside entity folder, create artifact_entity.py
 23. Difference between config_entity and artifact_entity.py is that config_entity is input schema and artifact_entity.py is output schema. 
 24. Now create demo.py in root dir
-25. 
+25. Create schema.yaml in config of root dir
+26. Create model.yaml file in config of root dir.
